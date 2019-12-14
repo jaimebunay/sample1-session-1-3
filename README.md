@@ -35,6 +35,6 @@ This is an above the line break text.
 
 This below the break text
 
->"This is a block quote"]
+>"This is a block quote"
 
 ![puppy](puppy.jpg)
